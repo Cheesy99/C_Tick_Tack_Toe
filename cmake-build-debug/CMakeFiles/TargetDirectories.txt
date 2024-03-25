@@ -1,0 +1,3 @@
+C:/Users/tobia/OneDrive/Desktop/Free time/C_C++/C_TIC_TAC_TOE/cmake-build-debug/CMakeFiles/C_Tutorial.dir
+C:/Users/tobia/OneDrive/Desktop/Free time/C_C++/C_TIC_TAC_TOE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tobia/OneDrive/Desktop/Free time/C_C++/C_TIC_TAC_TOE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
